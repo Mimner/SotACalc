@@ -1,0 +1,4 @@
+- [x] Suppress warnings in `settings.gradle.kts`
+- [x] Fix Chaquopy plugin ID in `app/build.gradle.kts`
+- [x] Remove duplicate BOM in `app/build.gradle.kts`
+- [x] Verify Gradle sync

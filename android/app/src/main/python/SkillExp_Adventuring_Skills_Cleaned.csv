@@ -1,0 +1,274 @@
+Skill_Name,Skill_Multiplier
+Bladed Combat,1.0
+Thrust,1.0
+Riposte,1.0
+Blade Speed,4.0
+Double Slash,1.0
+Rend,1.0
+Vital Points,1.0
+Blade Mastery,4.0
+Whirlwind Blades,2.0
+Coup de Grace,2.0
+Blade Specialization,20.0
+Bludgeon Combat,1.0
+Crushing Blow,1.0
+Break Weapon,1.0
+Stunner,4.0
+Knockback,2.0
+Knockdown,2.0
+Break Armor,1.0
+Crusher,4.0
+Breaker,4.0
+Berserk,1.0
+Ground Pound,1.0
+Bludgeon Specialization,20.0
+Glancing Blow,1.0
+Body Slam,2.0
+Inner Strenght,2.0
+Deflection,1.0
+Absorb Impacts,1.0
+Taunt,1.0
+Hard Headed,4.0
+Endurance,4.0
+Knight's Grace,3.0
+Valiant Warden,3.0
+Heavy Armor Specialization,20.0
+Provoking Shout,1.0
+Dodge,1.0
+Escape,1.0
+Evasion,1.0
+Swiftness,4.0
+Flurry,1.0
+Sprint,1.0
+Acrobatics,1.0
+Light Armor Specialization,20.0
+Polearm Combat,1.0
+Push,1.0
+Puncture,1.0
+Reach,4.0
+Pull,1.0
+Spinning Attack,1.0
+Defensive Positions,4.0
+Leg Sweep,1.0
+Skewer,1.0
+Bec de Faucon,4.0
+Polearm Specialization,20.0
+Ranged Combat,1.0
+Aimed Shot,1.0
+Disabling Shot,1.0
+Ammo Scavanger,4.0
+Piercing Shot,1.0
+Blinding Shot,1.0
+Eagle Eye,4.0
+Rapid Fire,1.0
+Range,4.0
+Multishot,1.0
+Draw Strenght,4.0
+Ranged Specialization,20.0
+Deflect,1.0
+Bolster Balance,1.0
+Angles,4.0
+Shield Bash,1.0
+Dig In,1.0
+Redirection,4.0
+Shield Preservation,4.0
+Charge,1.0
+Testudo,1.0
+Stand your ground,4.0
+Shield Specialization,20.0
+Dash,1.0
+Gust,0.5
+Air's Embrace,1.0
+Discharge,1.0
+Rapid Discharge,2.0
+Lightning,1.0
+Shield of Air,1.0
+Blink,1.0
+Well Grounded,2.0
+Chain Lightning,2.0
+Summon Air Elemental,2.0
+Air Magic Specialization,20.0
+Earth Warding,20.0
+Confusion,2.0
+Chaos Bolt,1.0
+Juxtapose,4.0
+Chaotic Clone,2.0
+Torpid Torment,1.0
+Tabula Rasa,2.0
+Chaotic Step,1.0
+Chaotic Feedback,1.0
+Summon Daemon,6.0
+Chaotic Shield,1.0
+Chaos Magic Specialization,20.0
+Tap Soul,2.0
+Corpse Explosion,1.0
+Death Touch,1.0
+Death Mastery,4.0
+Summon Skeleton,4.0
+Death Ray,2.0
+Undead Mastery,4.0
+Mummified Undead,4.0
+Death Shield,2.0
+Death Field,2.0
+Summon Lich,6.0
+Death Magic Specialization,20.0
+Life Warding,20.0
+Stone Fist,1.0
+Root,2.0
+Obsidian Arrow,2.0
+Strengh of Earth,1.0
+Sympathy of Stone,4.0
+Shield of Crystal,2.0
+Earthquake,3.0
+Earth's Embrace,2.0
+Bulwark of Earth,4.0
+Summon Earth Elemental,4.0
+Torpor,2.0
+Earth Magic Specialization,20.0
+Air Warding,20.0
+Flame Fist,1.0
+Fire Arrow,2.0
+Ignite Weapon,1.0
+Highly Flammable,4.0
+Fireball,3.0
+Immolation,1.0
+Fire Reach,4.0
+Fire Proof,4.0
+Ring of Fire,2.0
+Summon Fire Elemental,4.0
+Fire Magic Specialization,20.0
+Water Warding,20.0
+Healing Touch,1.0
+Healing Ray,2.0
+Purify,1.0
+Beneficent Blessing,4.0
+Healing Burst,3.0
+Purify Burst,3.0
+Banish Undead,2.0
+Life Power,4.0
+Life Reach,4.0
+Healing Grace,2.0
+Resurrection,4.0
+Healing Blast,2.0
+Life Magic Specialization,20.0
+Death Warding,20.0
+Night Vision,1.0
+Vanish,1.0
+Celestial Blessing,1.0
+Fireflies,1.0
+Animal Charm,1.0
+Moon Worship,4.0
+Shadow Form,1.0
+Cocoon of Night,1.0
+Meteor Shower,1.0
+Moon Beams,1.0
+Moon Eater,4.0
+Night Step,1.0
+Summon Whisp,1.0
+Lunar Magic Specialization,20.0
+Sun Warding,20.0
+Shooting Star,1.0
+Light,1.0
+Searing Ray,1.0
+Enlightenment,1.0
+Blind,1.0
+Sun Worship,4.0
+Reveal Hidden,1.0
+Dazzling Rays,1.0
+Sun Eater,4.0
+Summon Phoenix,1.0
+Elysian Illumination,1.0
+Sun Magic Specialization,20.0
+Solar Flare,1.0
+Moon Warding,20.0
+Ice Fist,1.0
+Ice Arrow,1.0
+Douse,1.0
+Icy Breath,4.0
+Ice Field,1.0
+Soothing Rain,1.0
+Shield of Ice,1.0
+Cone of Cold,1.0
+Blue Blooded,4.0
+Summon Water Elemental,1.0
+Summon Ice Elemental,1.0
+Water Specialization,20.0
+Fire Warding,20.0
+Heightened Awareness,5.0
+Mind Wipe,1.0
+Train Intelligence,10.0
+Quick Swapping,4.0
+Mind Lock,1.0
+Spellbinder Stance,1.0
+Inner Calm,4.0
+Aetheric Feedback,1.0
+Follow Through,4.0
+Tranquility,4.0
+Focus Specialization,20.0
+Train Summoned Pet Health,4.0
+Elixir Receptive,4.0
+Train Summoned Pet Resistance,4.0
+Train Summoned Pet Damage,4.0
+Healthy,5.0
+Armor Preservation,4.0
+Reckless Stance,1.0
+Defensive Stance,1.0
+Train Strength,10.0
+Parry,1.0
+Weapon Preservation,4.0
+Berserker's Stance,1.0
+Passive Stance,1.0
+Heavy Lifter,4.0
+Offhand Attack,1.0
+Fortify Defenses,1.0
+Offhand Defense,4.0
+Offhand Power,4.0
+Tactics Specialization,20.0
+Magic Warding,20.0
+Elixir Extension,4.0
+Distract,1.0
+Train Dexterity,10.0
+Engage Opponent,1.0
+Trip,1.0
+Camouflage,1.0
+Pugilism,1.0
+Poison Weapon,2.0
+Silent Movement,2.0
+Armor Weak Points,4.0
+Safe Fall,5.0
+Sneak Attack,2.0
+Sap,2.0
+Pick Locks,2.0
+Pick Pockets,2.0
+Backstab,4.0
+Opportunity Strike,2.0
+Subterfuge Specialization,20.0
+Tame Creature,1.0
+Summoning,1.0
+Heal Creature,1.0
+Obedience,1.0
+Collar Recovery,1.0
+Resurrect Creature,1.0
+Combat Training,1.0
+Concentration,1.0
+Refresh,1.0
+Taming Specialization,20.0
+Frenzy,1.0
+Pet Speed Training,1.0
+Pet Strength Training,1.0
+Pet Taunting Training,1.0
+Pet Attack Precision Training,1.0
+Pet Hide Toughness Training,1.0
+Melody of Mending,1.0
+Atonal Aria,1.0
+Anthem of Alacrity,1.0
+Rhythmic Readiness,5.0
+Psalm of Stagnation,1.0
+Concussive Canticle,1.0
+Savage Sonata,1.0
+Resounding Reach,5.0
+Musical Fortitude,5.0
+Mesmerizing Melody,1.0
+Rhapsody of Recovery,1.0
+Refrain of Resistance,1.0
+Bard Specialization,20.0
